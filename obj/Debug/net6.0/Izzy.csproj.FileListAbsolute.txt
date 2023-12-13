@@ -1,0 +1,12 @@
+C:\Users\emmie\Documents\Development\Izzy\bin\Debug\net6.0\Izzy.deps.json
+C:\Users\emmie\Documents\Development\Izzy\bin\Debug\net6.0\Izzy.dll
+C:\Users\emmie\Documents\Development\Izzy\bin\Debug\net6.0\Izzy.pdb
+C:\Users\emmie\Documents\Development\Izzy\obj\Debug\net6.0\Izzy.csproj.AssemblyReference.cache
+C:\Users\emmie\Documents\Development\Izzy\obj\Debug\net6.0\Izzy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmie\Documents\Development\Izzy\obj\Debug\net6.0\Izzy.AssemblyInfoInputs.cache
+C:\Users\emmie\Documents\Development\Izzy\obj\Debug\net6.0\Izzy.AssemblyInfo.cs
+C:\Users\emmie\Documents\Development\Izzy\obj\Debug\net6.0\Izzy.csproj.CoreCompileInputs.cache
+C:\Users\emmie\Documents\Development\Izzy\obj\Debug\net6.0\Izzy.dll
+C:\Users\emmie\Documents\Development\Izzy\obj\Debug\net6.0\refint\Izzy.dll
+C:\Users\emmie\Documents\Development\Izzy\obj\Debug\net6.0\Izzy.pdb
+C:\Users\emmie\Documents\Development\Izzy\obj\Debug\net6.0\ref\Izzy.dll
